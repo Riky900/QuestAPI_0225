@@ -1,15 +1,3 @@
-# QuestAPI_0225 - MEET10
+<img width="1470" height="956" alt="Screenshot 2026-11-26 at 18 32 37" src="https://github.com/user-attachments/assets/be603ab2-db20-42a3-bcb8-b3ce002d97d2" />
 
-Aplikasi Android Data Siswa berbasis Jetpack Compose, Retrofit 2, dan KotlinX Serialization.
-
-## Fitur
-- Menampilkan daftar siswa dari REST API (`bacaTeman.php`)
-- Menambah data siswa baru (`insertTM.php`)
-- Navigasi antar halaman menggunakan Navigation Compose
-- Dependency Injection sederhana menggunakan `ContainerApp`
-
-## Arsitektur
-- **Model**: `DataSiswa`
-- **Network**: Retrofit Service `ServiceApiSiswa`
-- **Repository**: `RepositoryDataSiswa` & `JaringanRepositoryDataSiswa`
-- **UI/ViewModel**: State-driven UI dengan `HomeViewModel` dan `EntryViewModel`
+<img width="1470" height="956" alt="Screenshot 2026-11-26 at 18 32 46" src="https://github.com/user-attachments/assets/69dd5a09-eea6-4338-b464-ca051f37f24b" />
